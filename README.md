@@ -2,7 +2,7 @@
 
 原创的横版一对一格斗游戏原型。战斗规则是真实可玩的，角色、场景和音效全部由代码生成，没有任何外部素材。提供电脑对战与训练模式，单机运行，不需要联网。
 
-- 在浏览器里直接玩：https://xingxuan-platform.pages.dev/tools/xiaoren-luandou/
+- 在浏览器里直接玩：https://starwright.xyz/tools/xiaoren-luandou/
 - Windows 版下载：见本仓库的 [Releases](https://github.com/chenyihang98-pixel/xiaoren-luandou/releases)
 
 ## Windows 版怎么用
